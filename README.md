@@ -1,3 +1,5 @@
+Not usable.  Very early prototype. 
+
 # FerrumFinance
 
 A comprehensive multi-currency financial management system built with Rust and Iced.
